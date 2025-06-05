@@ -1,0 +1,21 @@
+{
+  "name": "Payment-Bot-Discord",
+  "version": "1.0.0",
+  "description": "Bot Discord hỗ trợ thanh toán qua Google Sheets và QR",
+  "main": "bot.js",
+  "author": "ZenKho",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/L9xPhuc/Auto-pay-check-Bot-Discord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/L9xPhuc/Auto-pay-check-Bot-Discord/issues"
+  },
+  "homepage": "https://github.com/L9xPhuc/Auto-pay-check-Bot-Discord#readme",
+  "dependencies": {
+    "discord.js": "^14.19.2",
+    "dotenv": "^16.4.5",
+    "googleapis": "^148.0.0"
+  }
+}
