@@ -16,7 +16,7 @@ Bot Discord giúp tạo mã thanh toán ngân hàng (hoặc ví) và tự độn
 
 ### 1. Clone source code:
 ```sh
-git clone https://github.com/yourusername/dst-payment-bot.git
+git clone https://github.com/ZenKho-chill/Payment-Bot-Discord.git
 cd dst-payment-bot
 ```
 
