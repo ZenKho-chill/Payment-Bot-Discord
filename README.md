@@ -63,7 +63,7 @@ node bot.js
 Chạy bằng Docker:
 ```sh
 docker build -t dst-payment-bot .
-docker run --env-file .env dst-payment-bot
+docker run -d --name payment-discord-bot payment-discord-bot
 ```
 
 ## 💬 Slash Command
